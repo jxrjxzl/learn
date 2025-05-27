@@ -2,6 +2,6 @@
 
 int main() {
     std::cout << "Hello world" << std::endl;
-    std::cout << "adding a line in dev branch" << std::endl;
+    std::cout << "adding one line at main branch" << std::endl;
     return 0;
 }
