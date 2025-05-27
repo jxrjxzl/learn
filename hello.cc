@@ -2,7 +2,6 @@
 
 int main() {
     std::cout << "Hello world" << std::endl;
-    std::cout << "adding one line at main branch" << std::endl;
-    std::cout << "add one line at feature1 branch" << std::endl;
+    std::cout << "test git merge with --no-ff" << std::endl;
     return 0;
 }
