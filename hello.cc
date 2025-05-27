@@ -2,6 +2,6 @@
 
 int main() {
     std::cout << "hello world\n";
-    std::cout << "git has a bug now\n";
+    std::cout << "bug solved!\n";
     return 0;
 }
